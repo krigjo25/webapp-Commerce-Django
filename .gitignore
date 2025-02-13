@@ -1,5 +1,6 @@
 #   Folders to ignore
 .venv/
-__pychache/
+__pycache__/
 
-#   Files to ignre
+#   Files to ignore
+*.log
