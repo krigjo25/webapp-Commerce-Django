@@ -1,4 +1,5 @@
 #   Folders to ignore
 .venv/
+__pychache/
 
 #   Files to ignre
