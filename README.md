@@ -3,7 +3,7 @@
 
 The application was implemented as an assignment at CS50Web
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.<br>
-A demo of the application can be watched at [CS50 HomePage](https://cs50.harvard.edu/web/2020/projects/2/commerce/)
+A demo of the application can be watched at [CS50Web HomePage](https://cs50.harvard.edu/web/2020/projects/2/commerce/)
 
 ## Installation
 1. Clone the repository:
@@ -32,6 +32,9 @@ pip install -r requirements.txt
 ```sh
 flask run --debug ( opens up the development environment)
 ```
+## Requirements
+The requirements for the project can be found in [Requirements file](./requirements.txt)<br>
+In order to install submit50 dependencies follow the installation structure for [rusetup](https://rustup.rs/) package works for linux, windows.
 
 ## Credits
 
@@ -45,5 +48,5 @@ The application is under [The UnLicense](./LICENCE).
 #   Notes from the developer
 Created with love, for python programming,
 
-Thanks for reading, and have a blessed day,
+Thanks for reading, and have a glorious day,
 @krigjo25

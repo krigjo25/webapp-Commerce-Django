@@ -1,5 +1,9 @@
 #   Python's logger module is used to log messages to the console and to a file.
 
+#   Copyright © 2023 Kristoffer Gjøsund
+#   Licensed under MIT License 
+
+
 #   Importing required dependencies
 import logging as Log
 from typing import Optional, Union
